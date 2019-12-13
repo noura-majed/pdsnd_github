@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+12-13-2019
 
 ### Project Title
-Replace the Project Title
+git 
 
 ### Description
-Describe what your project is about and what it does
+the project was about creating repositories and its steps using terminal 
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+udacity github project
 
