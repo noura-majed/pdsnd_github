@@ -6,7 +6,7 @@ import time
 def get_city():
     city = ''
     while city.lower() not in ['chicago', 'new york', 'washington']:
-        city = input('Would you like to see data for Chicago, New York, or'
+        city = input('What city would you like to see data for? Chicago, New York, or'
                      ' Washington?')
         if city.lower() == 'chicago':
             return 'chicago.csv'
