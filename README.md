@@ -5,7 +5,7 @@
 github  
 
 ### Description
-the project was about creating repositories and its steps using terminal 
+the project was about using the bikeshare data base and through python programming language creat a programe that prompts the user for input and show information accordingly 
 
 ### Files used
 bikeshare.py
