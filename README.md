@@ -2,7 +2,7 @@
 12-13-2019
 
 ### Project Title
-git 
+github  
 
 ### Description
 the project was about creating repositories and its steps using terminal 
