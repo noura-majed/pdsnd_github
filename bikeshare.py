@@ -129,7 +129,7 @@ def display_data(df):
     valid_input = False
     while valid_input == False:
         display = input('\nWould you like to view individual trip data? '
-                        'Type \'yes\' or \'no\'.\n')
+                        'please Type \'yes\' or \'no\'.\n')
         valid_input = is_valid(display)
         if valid_input == True:
             break
