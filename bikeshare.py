@@ -157,6 +157,7 @@ def display_data(df):
                 print(df[df.columns[0:-1]].iloc[head:tail])
             elif display_more.lower() == 'no':
                 break
+#show user stats
 def statistics():    
     city = get_city()
     print('please wait')
