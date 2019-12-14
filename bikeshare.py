@@ -27,6 +27,7 @@ def get_time_period():
             print('Sorry,Invalid input')
     return time_period
 def get_month():
+    # months from 1 - 6
     month_input = ''
     months_dict = {'january': 1, 'february': 2, 'march': 3, 'april': 4,
                    'may': 5, 'june': 6}
