@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime
 from datetime import timedelta
 import time
-
+# start prompting user for information
 def get_city():
     city = ''
     while city.lower() not in ['chicago', 'new york', 'washington']:
