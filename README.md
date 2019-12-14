@@ -2,7 +2,7 @@
 12-13-2019
 
 ### Project Title
-github  
+using terminial for a github project 
 
 ### Description
 the project was about using the bikeshare data base and through python programming language creat a programe that prompts the user for input and show information accordingly 
